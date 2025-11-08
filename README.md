@@ -72,4 +72,3 @@ To visualize the Jac graph while debugging, open the graph visualize view using 
 - Document symbols, workspace symbols
 - Variables hint, and documentation on hover
 - Diagnostics
-- Diagnostics
